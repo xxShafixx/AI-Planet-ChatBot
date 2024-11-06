@@ -12,7 +12,7 @@ Develop a full-stack application that allows users to upload PDF documents and a
 
 ## Installation and Setup
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/xxShafixx/AI-Planet-Chatbot.git   
 2. Create and activate a virtual environment:
     python -m venv .venv
     source .venv/bin/activate  # On Windows, use .venv\Scripts\activate
