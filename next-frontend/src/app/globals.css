@@ -1,0 +1,13 @@
+/* Import Tailwind's styles and classes */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Base styles for the body element */
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
